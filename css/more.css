@@ -78,11 +78,10 @@
     }
 .plus-friends__items .plus-friends__item{
     width: 50%;
+    margin-bottom: 30px;
 }
 .plus-friends__item i{
     margin-right: 20px;
-    margin-bottom: 30px;
-
 }
 .plus-friends__item .plus-friends__item-title{
     font-size: 12px;
