@@ -6,6 +6,9 @@
     top: 0;
     width:100%;
 }
+.top-header a{
+    color: white;
+}
 .top-header .header__top,
 .top-header .header__bottom
 {
